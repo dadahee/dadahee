@@ -1,7 +1,10 @@
-### Hi there 👋
-
-[![dadahee's github stats](https://github-readme-stats.vercel.app/api?username=dadahee&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dadahee&layout=compact&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/dadahee"
+  width="900"
+  height="300"
+/>
+</a>
 
 <!--
 **dadahee/dadahee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
